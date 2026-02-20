@@ -1,8 +1,8 @@
-# Java Console Application
+# CMPE 343 – Project 1: Java Console Application
 
-A feature-rich, menu-driven console application built with pure Java. The app greets users with colorful ASCII art and offers a variety of operations organized by school level.
+A feature-rich, menu-driven console application built with pure Java as part of the CMPE 343 course at Kadir Has University. The app greets users with colorful ASCII art and offers a variety of operations organized by school level.
 
-## 👥 Team
+## 👥 Team – Group 29
 - Dıldar Baştuğ
 - Doğukan Furat
 - Sena Coşkun
